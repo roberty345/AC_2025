@@ -1,0 +1,6 @@
+﻿A construção começou em 16:22...
+1>------ Compilação iniciada: Projeto: exercicio16, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>exercicio16 -> C:\Users\PC-2\source\repos\exercicio16\exercicio16\bin\Debug\net8.0\exercicio16.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 16:22 e levou 00,395 segundos ==========
